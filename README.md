@@ -1,4 +1,4 @@
-# flutter_web_project2
+# flutter_getx_counterapp
 
 A new Flutter project.
 
